@@ -77,7 +77,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ✅')
-console.log('NIMA-MD DIPLOY SUCCESSFUL TO ENJOY 𝚃𝙾 ✅')
+console.log('RIKA-MD DIPLOY SUCCESSFUL TO ENJOY 𝚃𝙾 ✅')
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
@@ -98,7 +98,7 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
  - : ᴜɴᴅᴇꜰɪɴᴇᴅ
 
 > *POWERED BY RIKA-MD🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/zqoycp.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/7pg24k.jpg` }, caption: up })
 
 }
 })
