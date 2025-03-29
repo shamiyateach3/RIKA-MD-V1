@@ -25,7 +25,7 @@ async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
         const ownerNumber = '+237656520674'; // Replace this with the actual owner number
-        const ownerName = '༒𝐋𝐎𝐑�? 𝐊𝐄𝐑𝐌�?'; // Replace this with the owner's name
+        const ownerName = '༒𝐋𝐎𝐑𝐃 𝐊𝐄𝐑𝐌༒'; // Replace this with the owner's name
         const organization = 'UD TEAM'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
@@ -67,7 +67,7 @@ const config = require('../config');
 cmd({
   pattern: "owner",
   react: "👑", 
-  alias: ["CYBER RIKADO"],
+  alias: ["ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ"],
   desc: "Get owner number",
   category: "main",
   filename: __filename
@@ -75,8 +75,8 @@ cmd({
   try {
     // Propriétaires' informations de contact
     const owners = [
-      { number: '+94766619363', name: '𝗡𝗜𝗠𝗔', organization: '𝗡𝗜𝗠𝗔 𝗧𝗘𝗔𝗠' },
-      { number: '+94766619363', name: '𝗗𝗡𝗦 𝗞𝗜𝗡𝗚', organization: '𝗡𝗜𝗠𝗔 𝗧𝗘𝗔𝗠' }
+      { number: '+94766619363', name: 'ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ', organization: 'ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ' },
+      { number: '+94787026652', name: 'ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ', organization: 'ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ' }
     ];
 
     let contacts = [];
