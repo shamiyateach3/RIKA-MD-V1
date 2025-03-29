@@ -40,7 +40,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363324386877609@newsletter',
-          newsletterName: '𝗡𝗜𝗠𝗔 𝗙𝗕',
+          newsletterName: '𝗥𝗜𝗞𝗔𝗗𝗢 𝗙𝗕',
           serverMessageId: 143
         }
       }
