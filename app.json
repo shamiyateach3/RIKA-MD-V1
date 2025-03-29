@@ -1,9 +1,9 @@
 {
   "name": "RIKA-MD",
   "description": "THE BEST WHATSAPP BOT RIKA-MD",
-  "logo": "https://files.catbox.moe/ok49za.jpg",
+  "logo": "https://files.catbox.moe/7pg24k.jpg",
   "keywords": ["bot"],
-  "success_url": "https://github.com/Lokunima2001/LOKU-NIMA-MD-GIT",
+  "success_url": "https://github.com/Cyberrikado/RIKA-MD-V1/tree/main",
 
     "stack": "container",
   "env": {
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/zqoycp.jpg"
+      "value": "https://files.catbox.moe/7pg24k.jpg"
     }, 
     
     "ALIVE_MSG": {
