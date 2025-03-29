@@ -62,7 +62,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363614256474114@newsletter',
-                    newsletterName: '𝗥𝗜𝗞𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: '𝗥𝗜𝗞𝗔𝗗𝗢 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }
@@ -79,7 +79,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416256474114@newsletter',
-                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: '𝗥𝗜𝗞𝗔𝗗𝗢 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }
