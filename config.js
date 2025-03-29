@@ -28,7 +28,7 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    BOT_NAME: process.env.BOT_NAME || "𝗥𝗜𝗞𝗔 𝗠𝗗",
+    BOT_NAME: process.env.BOT_NAME || "RIKA-MD",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By RIKA-MD Bot 🦄 `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
