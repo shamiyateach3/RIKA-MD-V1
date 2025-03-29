@@ -106,9 +106,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *💗 Image ${i + 1} from your search! 💗*
 
- *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 𝖪𝖤𝖱𝖬 👾*
+ *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 RIKADO 👾*
 
-> 🥷🏽 KERM MD V1 🥷🏽`
+> 🥷🏽 RIKA MD V1 🥷🏽`
 }, { quoted: mek });
 }
 
