@@ -270,7 +270,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363414256474114@newsletter',
-      newsletterName: '𝗥𝗜𝗞𝗔-𝗠𝗗 1𝗩',
+      newsletterName: '𝗥𝗜𝗞𝗔𝗗𝗢-𝗠𝗗 1𝗩',
       serverMessageId: 999
     }
   }
