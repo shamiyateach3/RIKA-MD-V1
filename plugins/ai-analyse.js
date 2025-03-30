@@ -64,8 +64,8 @@ cmd({
     }
     const analysis = geminiResponse.data.result || "No analysis result available.";
     
-    const formattedInfo = `🤖 *Image Analysis Result:*\n\n${analysis}\n\n> Powered by Kerm md`;
-    const GEMINI_IMG = "https://files.catbox.moe/zc8qtj.jpeg";
+    const formattedInfo = `🤖 *Image Analysis Result:*\n\n${analysis}\n\n> Powered by RIKA md`;
+    const GEMINI_IMG = "https://files.catbox.moe/gqkxkr.jpg";
 
     await conn.sendMessage(m.chat, {
       image: { url: GEMINI_IMG },
@@ -75,7 +75,7 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '1203633213877609@newsletter',
+          newsletterJid: '12036332137609@newsletter',
           newsletterName: 'ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ ɢᴇᴍɪɴɪ',
           serverMessageId: 143
         }
