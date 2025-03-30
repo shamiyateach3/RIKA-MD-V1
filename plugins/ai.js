@@ -73,8 +73,8 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321386877609@newsletter',
-                    newsletterName: '𝐊𝐄𝐑𝐌 𝐀𝐈',
+                    newsletterJid: '1203633216877609@newsletter',
+                    newsletterName: '𝐑𝐈𝐊𝐀 𝐀𝐈',
                     serverMessageId: 143
                 }
             }
@@ -148,8 +148,8 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321386877609@newsletter',
-                    newsletterName: '𝐊𝐄𝐑𝐌 𝐀𝐈',
+                    newsletterJid: '120363386877609@newsletter',
+                    newsletterName: '𝐑𝐈𝐊𝐀 𝐀𝐈',
                     serverMessageId: 143
                 }
             }
