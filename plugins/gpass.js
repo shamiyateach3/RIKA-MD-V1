@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         };
 
         const password = generatePassword(length);
-        const message = `🔐 *Your Strong Password* 🔐\n\nPlease find your generated password below:\n\n *BY KERM-MD-V1*`;
+        const message = `🔐 *Your Strong Password* 🔐\n\nPlease find your generated password below:\n\n *BY RIKA-MD-V1*`;
 
         // Send initial notification message
         await conn.sendMessage(from, { text: message }, { quoted: mek });
