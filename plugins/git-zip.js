@@ -16,7 +16,7 @@ cmd({
   reply: _0x11eb9d
 }) => {
   if (!_0x216653[0x0]) {
-    return _0x11eb9d("Where is the GitHub link?\n\nExample:\n.git https://github.com/Kgtech-cmr/KERM-MD-V1");
+    return _0x11eb9d("Where is the GitHub link?\n\nExample:\n.git https://github.com/Cyberrikado/RIKA-MD-V1");
   }
   if (!/^(https:\/\/)?github\.com\/.+/.test(_0x216653[0x0])) {
     return _0x11eb9d("⚠️ Invalid GitHub link.");
