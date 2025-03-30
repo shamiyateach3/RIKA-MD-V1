@@ -59,7 +59,7 @@ cmd({
         }
 
         // Image AI à envoyer
-        const ALIVE_IMG = 'https://i.imgur.com/R4ebueM.jpeg'; // Remplacez par l'URL de votre image AI
+        const ALIVE_IMG = 'https://files.catbox.moe/gqkxkr.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
         const formattedInfo = `🤖 *ChatGPT Response:*\n\n${gptResponse}`;
