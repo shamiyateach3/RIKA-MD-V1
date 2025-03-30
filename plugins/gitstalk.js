@@ -51,7 +51,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 🔭 *ᴘᴜʙʟɪᴄ ɢɪꜱᴛꜱ*: ${data.public_gists}
 
-*MADE ♥ BY KERM-MD-V1*
+*MADE ♥ BY RIKADO-MD*
 `;
 
         await conn.sendMessage(from, { image: { url: data.avatar_url }, caption: userInfo }, { quoted: mek });
