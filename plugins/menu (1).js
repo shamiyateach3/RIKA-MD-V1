@@ -36,7 +36,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 
 try{
-let madeMenu = `*╭══〘〘 ${config.BOT_NAME} 〙〙*
+let madeMenu = `*╭══〘〘 RIKA MD 〙〙*
 *┃♻️* *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 *┃♻️* *ᴍᴏᴅᴇ* : *${config.MODE}*
 *┃♻️* *ᴘʀᴇғɪx* : *${config.PREFIX}*
