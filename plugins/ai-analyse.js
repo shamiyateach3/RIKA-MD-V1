@@ -50,7 +50,7 @@ cmd({
     const uploadedUrl = imgbbResponse.data.data.url;
     fs.unlinkSync(tempPath);
 
-    await reply("```Kerm-md is analyzing the image...```");
+    await reply("```Rikado-md is analyzing the image...```");
 
     const geminiUrl = "https://api.nexoracle.com/ai/gemini-image";
     const paramsObj = {
@@ -75,7 +75,7 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '12036332137609@newsletter',
+          newsletterJid: '120363327609@newsletter',
           newsletterName: 'ᴄʏʙᴇʀ ʀɪᴋᴀᴅᴏ ɢᴇᴍɪɴɪ',
           serverMessageId: 143
         }
