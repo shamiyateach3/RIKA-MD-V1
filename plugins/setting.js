@@ -52,7 +52,7 @@ cmd({
         };
 
         // Create the settings message with the updated format
-        let madeSetting = `╭───⚙️ *${RIKA-MD} Settings* ⚙️───╮
+        let madeSetting = `╭───⚙️ *RIKA-MD Settings* ⚙️───╮
 │
 │ ♻️ *➤ Auto Read Status*: ${statusIcon(config.AUTO_READ_STATUS)}
 │ ♻️ *➤ Mode*: *${config.MODE}*
@@ -67,11 +67,11 @@ cmd({
 │ ♻️ *➤ Auto React*: ${statusIcon(config.AUTO_REACT)}
 │ ♻️ *➤ Heart React*: ${statusIcon(config.HEART_REACT)}
 │ ♻️ *➤ Owner React*: ${statusIcon(config.OWNER_REACT)}
-│ ♻️ *➤ Bot Name*: *${RIKA-MD}*
+│ ♻️ *➤ Bot Name*: *RIKA-MD*
 │
 ╰──────────────────────────╯
 
-*❮❮ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬 𝗥𝗜𝗞𝗔𝗗𝗢-𝗠𝗗 𝗩1 ❯❯*
+*❮❮ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬 𝗖𝗬𝗕𝗘𝗥 𝗥𝗜𝗞𝗔𝗗𝗢-𝗦𝗛𝗔𝗠𝗜𝗞𝗔 ❯❯*
 `;
 
         // Send the settings message with the updated format
