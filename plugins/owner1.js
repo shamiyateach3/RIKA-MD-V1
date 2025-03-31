@@ -242,7 +242,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
         if (!duka) return reply('🚫 *Failed to fetch privacy settings*');
         
         let puka = `
-╭───「 𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 𝙿𝚁𝙸𝚅𝙰𝙲𝚈  」───◆  
+╭───「 𝚁𝙸𝙺𝙰-𝙼𝙳 𝙿𝚁𝙸𝚅𝙰𝙲𝚈  」───◆  
 │ ∘ 𝚁𝚎𝚊𝚍 𝚁𝚎𝚌𝚎𝚒𝚙𝚝: ${duka.readreceipts}  
 │ ∘ 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙿𝚒𝚌𝚝𝚞𝚛𝚎: ${duka.profile}  
 │ ∘ 𝚂𝚝𝚊𝚝𝚞𝚜: ${duka.status}  
