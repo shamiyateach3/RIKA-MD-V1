@@ -43,7 +43,7 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 *┕─────────────────❒*
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-   *WELCOME TO NIMA-MD FULL COMMAND LIST👇*
+   *WELCOME TO RIKA-MD FULL COMMAND LIST👇*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 *CREATED BY CYBER RIKADO👨🏻‍💻*
