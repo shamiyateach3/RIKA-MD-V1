@@ -41,8 +41,8 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
                         forwardingScore: 999,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '1203321386877609@newsletter',
-                            newsletterName: '𝐑𝐈𝐊𝐀 𝐌𝐃 𝐈𝐍𝐒𝐓𝐀',
+                            newsletterJid: '1203633216877609@newsletter',
+                            newsletterName: '𝐑𝐈𝐊𝐀 𝐌𝐃 𝐑𝐄𝐏𝐎',
                             serverMessageId: 143
                         }
                     }
@@ -56,8 +56,8 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
                         forwardingScore: 999,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '1203633286877609@newsletter',
-                            newsletterName: '𝐂𝐘𝐁𝐄𝐑 𝐑𝐈𝐊𝐀𝐃𝐎',
+                            newsletterJid: '1203633213877609@newsletter',
+                            newsletterName: '𝐑𝐈𝐊𝐀 𝐌𝐃 𝐑𝐄𝐏𝐎',
                             serverMessageId: 143
                         }
                     }
